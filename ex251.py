@@ -19,3 +19,5 @@ ex25.print_first_and_last_sorted(sentence)
 
 #test for gitgui tool
 # git可以用啦
+# 有点迷糊
+# 不知道怎么删除tag
