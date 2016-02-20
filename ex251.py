@@ -19,4 +19,3 @@ ex25.print_first_and_last_sorted(sentence)
 
 #test for gitgui tool
 # git可以用啦
-#再生成一个版本！
